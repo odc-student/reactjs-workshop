@@ -30,18 +30,31 @@ This will start the development server and open a web browser at "http://localho
 
 The project has the following file structure:
 
+
 ├── public
+
 │   ├── index.html
+
 │   └── ...
+
 ├── src
+
 │   ├── components
+
 │   │   ├── ItemForm.js
+
 │   │   ├── ItemList.js
+
 │   │   └── ...
+
 │   ├── App.js
+
 │   ├── index.js
+
 │   └── ...
+
 ├── package.json
+
 └── ...
 
 The public folder contains the HTML file that the React application is rendered in. The src folder contains the JavaScript code that makes up the application. The components folder contains reusable React components for the form and list.
